@@ -19,6 +19,7 @@
 ## Screen Shots
 |<img src="https://user-images.githubusercontent.com/60619133/98633824-3a707c80-2348-11eb-8142-3d80d25867f5.jpg" alt="feed example" width = "220">|<img src="https://user-images.githubusercontent.com/60619133/98633822-36dcf580-2348-11eb-8e33-a1687a390cc5.jpg" alt="feed example" width = "220">|
 
+
 ## Algorithm
 In order for the algorithm to work it combines two names and the word "loves". For this example we will use names "Mufaddal" and "Shakir" so the combined text for the calculation is "Mufaddal Loves Shakir"
 1. Count all the letters from left to right and write down the number
