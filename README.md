@@ -1,4 +1,4 @@
-# <img align="left" width="80px" src="https://user-images.githubusercontent.com/60619133/98633670-e2d21100-2347-11eb-813a-3abd4478bf1d.png" />Love Meter
+# <img align="left" width="100px" src="https://user-images.githubusercontent.com/60619133/98633670-e2d21100-2347-11eb-813a-3abd4478bf1d.png" />Love Meter
 
 <p align="center">
    <a href="https://github.com/Mufaddal5253110">
